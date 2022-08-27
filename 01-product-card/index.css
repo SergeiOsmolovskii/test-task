@@ -52,7 +52,7 @@
   box-shadow: 0px 0px 45px -4px rgba(0, 0, 0, 0.18);
 }
 
-.card__image {
+.card-image {
   position: relative;
   min-height: 214px;
   background-image: url(./img/card.jpg);
